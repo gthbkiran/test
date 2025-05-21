@@ -3,3 +3,7 @@ Kiran
 Kumar
 Kavali
 NewLine
+<<<<<<< HEAD
+=======
+0000000000
+>>>>>>> origin/main
